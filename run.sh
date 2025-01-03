@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 N=256
 T=8
